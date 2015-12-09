@@ -1,0 +1,28 @@
+name: ESIS Norge AS
+favicon: null
+layout_spectrum: 0.7745903341565281
+typography_spectrum: 0.05099941254593432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.045297417091205716
+  lightness: 0.5634260650258511
+  saturation: 0.304550860542804
+  rhythmicContrast: 0.20236603100784123
+purpose: []
