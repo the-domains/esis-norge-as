@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: robert.engels
+  email: info@esis.no
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/514bf998-60e4-448e-8d1a-d772f930ca1a.png
 name: ESIS Norge AS
 cta:
   domain: null
